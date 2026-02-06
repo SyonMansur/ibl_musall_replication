@@ -1,0 +1,10 @@
+# Ignore data files
+data/
+results/
+__pycache__/
+*.npy
+*.pt
+
+# Ignore system files
+.DS_Store
+.vscode/
